@@ -1,0 +1,4 @@
+*.tsv
+scrape_company_urls.py
+.cache
+*.pyc
